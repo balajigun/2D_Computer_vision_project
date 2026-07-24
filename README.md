@@ -1,1 +1,1 @@
-## 3D_computer_vision_project
+## 2D_computer_vision_project

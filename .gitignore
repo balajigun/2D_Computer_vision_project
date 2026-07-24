@@ -148,6 +148,8 @@ activemq-data/
 *.sage.py
 
 # Environments
+yolo26s.pt
+cvprojects/
 .env
 .envrc
 .venv
