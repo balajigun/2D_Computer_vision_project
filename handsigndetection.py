@@ -3,7 +3,7 @@ import cv2
 import cvzone #lib used to draw the bounding box and labels of detected object
 
 cap = cv2.VideoCapture(0)
-model = YOLO("yolo26s.pt")
+model = YOLO("best.pt")
 
 while True:
     success, img = cap.read()
